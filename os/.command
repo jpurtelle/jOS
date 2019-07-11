@@ -1,0 +1,5 @@
+term.clear()
+term.setCursorPos(1,1)
+print("jOS Command Prompt")
+print("To return to the menu, type 'back'")
+print("----------------------------------")

@@ -1,0 +1,8 @@
+term.clear()
+term.setCursorPos(1,1)
+print("Thank you for using jOS")
+print("Loading...")
+sleep(1)
+textutils.slowPrint("#############")
+sleep(1)
+shell.run("disk/.menu")
